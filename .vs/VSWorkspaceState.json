@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\dist",
     "\\module1",
     "\\module1\\src",
     "\\module2",
     "\\module2\\src"
   ],
-  "SelectedNode": "\\module2\\src\\index.ts",
+  "SelectedNode": "\\module1\\src\\RIndex.tsx",
   "PreviewInSolutionExplorer": false
 }

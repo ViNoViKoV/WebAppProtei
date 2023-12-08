@@ -1,2 +1,2 @@
 ﻿// module1/src/index.ts
-console.log('Hello world from module1');
+console.log('Hello world from module 1!');
